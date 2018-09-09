@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 - I might use Dropbox or Google Drive. Easier for collaborators who don't know how to use Git or GitHub, harder for doing version control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- A separate branch is good for doing experimental work that you would not want to affect the master branch if the work turns out negatively. 
